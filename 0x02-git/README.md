@@ -1,0 +1,5 @@
+- This project is about creating a repository.
+- This project shows steps of navigaing through github and creating repositories and branches for projects.
+- it also shows how users can get started with projects.
+- where usersc can get help with projects.
+- It also shows the author of the project and the contributors to the project.
