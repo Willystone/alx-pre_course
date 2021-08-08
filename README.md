@@ -1,3 +1,5 @@
-This is my first git repo.
-It contains the folloing:
-- [x] a README.me file
+- [x] This is my first git hub project.
+- [x] It containsmy first repository.
+- [x] This README.md file has content about this project.
+- [x] This file also is contained in a directory named 0x02-git
+- [x] Directory 0x02-git also have a README.d file that you are currently reading.
