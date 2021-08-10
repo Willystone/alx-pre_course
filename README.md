@@ -3,3 +3,5 @@
 - [x] This README.md file has content about this project.
 - [x] This file also is contained in a directory named 0x02-git
 - [x] Directory 0x02-git also have a README.d file that you are currently reading.
+- [x] A few more changes have been made to this repository and more files have been added.
+- [x] A branch update_script has also been added  
